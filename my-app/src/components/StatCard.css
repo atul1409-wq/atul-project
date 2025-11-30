@@ -1,0 +1,11 @@
+.stat-card {
+  background: white;
+  padding: 0.9rem 1rem;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(18, 24, 31, 0.06);
+  min-width: 160px;
+}
+.stat-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.4rem; }
+.stat-title { font-size: 0.9rem; color: #444; }
+.stat-delta { font-size: 0.85rem; color: #0b9d58; font-weight: 600; }
+.stat-value { font-size: 1.6rem; font-weight: 700; color: #111827; }

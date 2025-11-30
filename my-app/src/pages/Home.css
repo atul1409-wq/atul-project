@@ -1,0 +1,4 @@
+.logo { height: 6rem; }
+.logo.react { filter: drop-shadow(0 0 0.3rem rgba(0,0,0,0.2)); }
+.card { padding: 1rem; border-radius: 8px; background: #f6f8fa; margin: 1rem 0; }
+.read-the-docs { color: #666; }
